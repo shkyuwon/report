@@ -4,7 +4,7 @@ REPRESENTATIVE ORTHOLOGS
 The main concept is designating a representative gene of in-paralogs (co-orthologs) which stands for the most conserved genes that are assigned based on the phylogenetic tree between all member of orthologs including the co-orthologs in the other species (Figure a). If the in-paralogs are ancestral genes, the software designates a representative gene among the ancestral in-paralogs and finally the descendant genes are assigned to the representative genes (Figure b).
 
 SUPPORTS
-Windows 64bit and Linux(with Mono runtime)
+Windows 32/64bit and Linux(with Mono runtime)
 
 USAGE
 report.exe  <newick tree file path> <output file path> <outgroup species list separated with a blank>
